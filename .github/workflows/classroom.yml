@@ -1,4 +1,4 @@
-name: Autograding cv05
+name: Autograding cv06
 
 on:
   push:
